@@ -1,2 +1,2 @@
 # VeloRent
-Bikes and scooty rental
+Bikes and scooty 
